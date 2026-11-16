@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Stats Card](https://ghstats.dev/api/card?username=viacheslavbondarchukk&theme=tokyonight&border_radius=13)
 
 <!--
 **viacheslavbondarchukk/viacheslavbondarchukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
